@@ -1,5 +1,4 @@
-Dependencies**
-----
+**Dependencies**
 
 Make sure you are a member of *sohnlab *
 
