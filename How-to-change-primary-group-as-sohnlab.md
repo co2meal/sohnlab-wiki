@@ -1,4 +1,3 @@
-
 Make sure you are a member of _sohnlab_
 ---
 
@@ -6,7 +5,7 @@ Make sure you are a member of _sohnlab_
 2. It shows groups you are in.
 3. Check there's _sohnlab_
 
-Change your primary group as _sohnlab_ 
+Change your primary group into _sohnlab_ 
 ---
 
 1. Type `id` and see `gid=???` part.
